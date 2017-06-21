@@ -1,0 +1,30 @@
+{
+ "name": "stickypad",
+ "version": "1.0.0",
+ "description": "Simple Sticky Pad App",
+ "main": "index.js",
+ "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+ },
+ "author": "Chaitya Shah",
+ "license": "ISC",
+ "devDependencies": {
+  "babel-core": "^6.25.0",
+  "babel-preset-es2015": "*",
+  "babel-preset-react": "*",
+  "babelify": "*",
+  "browserify": "*",
+  "flux": "*",
+  "gulp": "*",
+  "object-assign": "*",
+  "reactify": "*",
+  "vinyl-source-stream": "*"
+ },
+ "dependencies": {
+  "codemirror": "^5.26.0",
+  "marked": "^0.3.6",
+  "react": "*",
+  "react-codemirror": "^1.0.0",
+  "react-dom": "*"
+ }
+}

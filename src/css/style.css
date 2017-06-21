@@ -1,0 +1,14 @@
+body{
+	
+
+}
+nav{
+	margin-bottom: 30px;
+}
+.editor,.viewer{
+	height: 85vh;
+	font-size: 18px;
+}
+.editor{
+	resize: none;
+}
