@@ -1,5 +1,5 @@
 body{
-	
+
 
 }
 nav{
@@ -11,4 +11,8 @@ nav{
 }
 .editor{
 	resize: none;
+}
+
+.viewer{
+	overflow: scroll;
 }
